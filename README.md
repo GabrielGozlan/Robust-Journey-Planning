@@ -13,9 +13,6 @@ In the beginning of each notebook, select a region name and id (be careful to se
 
 _Video_: https://drive.google.com/drive/folders/14AL_4jEZhNps8WG-QZU66KibWY3WzrEQ
 
-Example of visualisation:<br>
-![Map](project_lsds_map.png)
-
 
 ----
 ## Problem Motivation
