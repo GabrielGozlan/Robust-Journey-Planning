@@ -229,15 +229,7 @@ The other files are:
 * agency.txt has the details of the operators
 * transfers.txt contains the transfer times between stops or platforms.
 
-Figure 1. better illustrates the above concepts relating stops, routes, trips and stop times on a real example (route 11-3-A-j19-1, direction 0)
 
-
- ![journeys](figs/journeys.svg)
- 
- Figure 1. Relation between stops, routes, trips and stop times. The vertical axis represents the stops along the route in the direction of travel.
-             The horizontal axis represents the time of day on a non-linear scale. Solid lines connecting the stops correspond to trips.
-             A trip is one instances of a vehicle journey on the route. Trips on same route do not need
-             to mark all the stops on the route, resulting in trips having different stop lists for the same route.
 #### Geo spatial data
 
 You will find useful geospatial shapes in the Hive table com490.geo_shapes.
