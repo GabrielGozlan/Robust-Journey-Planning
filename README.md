@@ -291,6 +291,3 @@ Imagine from a user experience perspective, how would you react if you are being
 Furthermore, who would you blame if the plan fails: the planner that came up with a theoretically infeasible plan, or the operator who respected their schedule?
 
 ----
-
-python
-
